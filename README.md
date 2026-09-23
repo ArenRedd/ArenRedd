@@ -98,7 +98,7 @@
   <tr>
     <td align="center" width="50%" style="border: none; background: none;">
       <a href="https://github.com/ArenRedd">
-        <img src="https://github-readme-stats.vercel.app/api?username=arenredd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arenredd&theme=tokyonight" alt="GitHub Stats" />
       </a>
     </td>
     <td align="center" width="50%" style="border: none; background: none;">
