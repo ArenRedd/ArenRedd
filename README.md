@@ -1,28 +1,317 @@
-# 👋 Hello World! I'm ArenRedd — a Cloud Engineer:
-🛠️ Building cloud-native solutions on AWS — infrastructure as code, CI/CD, and serverless architecture.<br>☁️ Hands-on experience with ECS, Lambda, CodeDeploy, Glue, DMS, and data pipelines.<br>🔐 Background in cybersecurity — secure-by-design across every environment I build.<br>📝 Sharing projects and findings on my [Blog](https://arenredd.github.io)
+<p align="center">
+  <img src="github-contribution-animation.svg" alt="GitHub Contribution Graph" width="850"/>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arenredd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arenredd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandram-mohan/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@anandrammohan9952) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/arenredd) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Honest-Huckleberry28) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/arenredd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@aren_redd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arenredd@gmail.com)
+<table>
+  <tr>
+    <td valign="centre"><img src="terminal-card.svg" alt="ASCII Portrait" width="400"/></td>
+    <td valign="top"><img src="info-card.svg" alt="Info Card" width="500"/></td>
+  </tr>
+</table>
 
-# ☁️ Cloud & DevOps Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-[![](https://visitcount.itsvg.in/api?id=arenredd&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 🗂️ Portfolio Projects:
-- **[Advanced Blue-Green Deployments](https://github.com/ArenRedd/advanced-blue-green-deployments)** — Zero-downtime blue-green deployments for ECS and Lambda with CodeDeploy, automated rollback, and CloudWatch monitoring.
-- **[Oracle to PostgreSQL Migration](https://github.com/ArenRedd/oracle-to-postgresql-migration-dms)** — Heterogeneous migration to Aurora PostgreSQL with AWS DMS and Schema Conversion Tool.
-- **[Serverless Data Lake Architecture](https://github.com/ArenRedd/serverless-data-lake-architecture)** — Serverless data lake with Lambda layers, Glue ETL, and EventBridge orchestration.
-- **[Security Incident Response Automation](https://github.com/ArenRedd/security-incident-response-automation)** — Automated incident response with Security Hub, EventBridge, and Lambda.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArenRedd/ArenRedd/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArenRedd/ArenRedd/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ArenRedd/ArenRedd/output/github-snake.svg" />
-</picture>
+<!-- HERO SECTION -->
+<div align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arenredd&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arenredd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=arenredd&theme=dark&hide_border=false)
+
+  
+  <h3><strong>Cloud Engineer | AWS & DevOps Enthusiast</strong></h3>
+  <p><i>Building cloud-native systems, CI/CD pipelines, and secure serverless architecture on AWS.</i></p>
+
+  <p>
+    <a href="mailto:arenredd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/anandram-mohan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/ArenRedd"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://medium.com/@anandrammohan9952"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+    <a href="https://x.com/arenredd"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+    <a href="https://youtube.com/@aren_redd"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+    <a href="https://arenredd.github.io"><img src="https://img.shields.io/badge/Blog-0A1128?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=arenredd&color=00FFCC&style=flat-square" alt="Visitor Counter" />
+</div>
+
+<br/>
+
+<!-- ABOUT & MEDIA SECTION -->
+<!-- ================= ABOUT ME ================= -->
+<h2 align="center">🚀 About Me</h2>
+
+<table width="100%" border="0">
+<tr>
+<td width="40%" valign="top" style="border: none; background: none;">
+
+### 👨‍💻 Who am I?
+
+* ☁️ **Cloud Engineer** passionate about building scalable, secure infrastructure on AWS.
+* 📦 Hands-on with **ECS, Lambda, CodeDeploy, Glue, DMS**, and event-driven architecture.
+* 🚀 Currently building production-grade AWS portfolio projects — blue-green deployments, data migrations, and serverless data lakes.
+* 🌱 Currently learning **Kubernetes, Terraform, AWS CDK, and advanced DevOps automation.**
+* 🛡️ Cybersecurity background powering a **secure-by-design** approach to every environment I build.
+
+<blockquote>
+  <p align="left">
+    <i>"I don't just provision infrastructure. I build resilient cloud systems that solve real-world problems."</i>
+  </p>
+</blockquote>
+
+</td>
+
+<td width="60%" align="center" valign="middle" style="border: none; background: none;">
+
+<img src="./assets/Create_a_6second_premium_cinematic_looping_a.gif" width="100%" height="auto" alt="Coding Animation"/>
+
+</td>
+</tr>
+</table>
+
+<hr style="border: 1px solid #30363d; background-color: #30363d; height: 1px; margin: 20px 0;" />
 
 ---
+
+<!-- ================= CLOUD & DEVOPS ================= -->
+<!-- Section Header with subtle typing or glow effect layout -->
+<!-- Section Header with a matching Dark/Glow theme -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1f232a&height=120&section=header&text=☁️%20Cloud%20%26%20DevOps&fontSize=30&fontColor=ffffff" width="100%"/>
+</div>
+
+<!-- Animated Metrics Section -->
+<p align="center">
+  <a href="https://github.com/ArenRedd/advanced-blue-green-deployments">
+    <img src="https://img.shields.io/badge/CodeDeploy-Blue%2FGreen%20%7C%20ECS%20%7C%20Lambda-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  </a>
+  <a href="https://github.com/ArenRedd/oracle-to-postgresql-migration-dms">
+    <img src="https://img.shields.io/badge/DMS-Oracle%20%E2%86%92%20Aurora-4ECDC4?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  </a>
+  <a href="https://github.com/ArenRedd/serverless-data-lake-architecture">
+    <img src="https://img.shields.io/badge/Data%20Lake-Glue%20%7C%20EventBridge%20%7C%20S3-569A31?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  </a>
+  <a href="https://github.com/ArenRedd/security-incident-response-automation">
+    <img src="https://img.shields.io/badge/Security-Hub%20%7C%20EventBridge%20%7C%20Lambda-00EA64?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  </a>
+</p>
+
+<!-- Left/Right Split: Perfectly balanced with working assets -->
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="center" width="50%" style="border: none; background: none;">
+      <a href="https://github.com/ArenRedd">
+        <img src="https://github-readme-stats.vercel.app/api?username=arenredd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center" width="50%" style="border: none; background: none;">
+      <!-- Using a GitHub-native typing animation that never fails to render -->
+      <a href="https://github.com/ArenRedd">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&width=400&lines=Designing+Cloud+Architecture...;Automating+Deployments;Blue-green+on+ECS+and+Lambda;Building+Serverless+Pipelines;Continuous+Learning" alt="Typing SVG" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- Animated Footer Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+</div>
+
+---
+
+### 🏅 Highlights
+
+- ☁️ **4 AWS portfolio projects** built end-to-end from scratch
+- 🔄 **Blue-green deployments** — CodeDeploy with ECS, Lambda, and automated rollbacks
+- 🗄️ **Oracle → Aurora PostgreSQL migration** — DMS + Schema Conversion Tool
+- 🏗️ **Serverless data lake** — Lambda layers, Glue ETL, and EventBridge orchestration
+- 🛡️ **Security incident-response automation** — Security Hub, EventBridge, and Lambda
+- 🔐 Cybersecurity background applying **secure-by-design** principles everywhere
+<!-- SKILLS SHOWCASE -->
+<h2>⚡ Tech Stack & Engineering Arsenal</h2>
+
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Languages</h3>
+      <img src="https://skillicons.dev/icons?i=python,bash,c,rust,powershell,php,mysql,linux" />
+      <br/><br/>
+      <h3>⚙️ Backend & Scripting</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+      <br/><br/>
+      <h3>🗄️ Databases & Caching</h3>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,dynamodb" />
+      <br/><br/>
+      <h3>☁️ Cloud & DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,github,git" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ AWS Services</h3>
+      <p>
+        <img src="https://img.shields.io/badge/CodeDeploy-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+        <img src="https://img.shields.io/badge/ECS%20%7C%20Fargate-FF4F8B?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+        <img src="https://img.shields.io/badge/Glue-8C4FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+        <img src="https://img.shields.io/badge/EventBridge-FF4F8B?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+        <img src="https://img.shields.io/badge/DMS-4ECDC4?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+        <br/>S3 • RDS / Aurora • DynamoDB • ALB • ECR • CloudWatch • SNS • Security Hub • IAM
+      </p>
+      <br/>
+      <h3>📊 Data Engineering</h3>
+      <p>AWS Glue • AWS DMS • ETL • CDC Pipelines • Data Lakes • Athena • Schema Conversion • Partitioning</p>
+      <br/>
+      <h3>🔐 Security & Access Control</h3>
+      <p>IAM Least Privilege • Security Hub • GuardDuty • CloudWatch Alarms • Incident Response • Automation</p>
+    </td>
+  </tr>
+</table>
+
+<!-- PROJECTS -->
+<h2>💼 Featured Projects</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔄 <a href="https://github.com/ArenRedd/advanced-blue-green-deployments">Advanced Blue-Green Deployments</a></h3>
+      <p>Zero-downtime blue-green deployments for ECS and Lambda with AWS CodeDeploy, automated health checks, traffic shifting, and rollback triggers.</p>
+      <p>
+        <code>CodeDeploy</code> <code>ECS</code> <code>Lambda</code> <code>ALB</code> <code>CloudWatch</code> <code>SNS</code>
+      </p>
+      <ul>
+        <li>✔ Dual target groups with automatic traffic shifting</li>
+        <li>✔ Alarm-driven automated rollbacks & lifecycle hooks</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗄️ <a href="https://github.com/ArenRedd/oracle-to-postgresql-migration-dms">Oracle to PostgreSQL Migration</a></h3>
+      <p>Heterogeneous database migration from Oracle to Aurora PostgreSQL using AWS DMS and Schema Conversion Tool with minimal downtime.</p>
+      <p>
+        <code>DMS</code> <code>Aurora PostgreSQL</code> <code>SCT</code> <code>RDS</code> <code>CDC</code>
+      </p>
+      <ul>
+        <li>✔ Full-load + continuous change data capture</li>
+        <li>✔ Schema conversion assessment & post-migration validation</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏗️ <a href="https://github.com/ArenRedd/serverless-data-lake-architecture">Serverless Data Lake Architecture</a></h3>
+      <p>Event-driven serverless data lake with Lambda layers, Glue ETL, EventBridge orchestration, and automated data quality validation.</p>
+      <p>
+        <code>Lambda</code> <code>Glue</code> <code>EventBridge</code> <code>S3</code> <code>DynamoDB</code> <code>Athena</code>
+      </p>
+      <ul>
+        <li>✔ Shared Lambda layers & quality scoring with quarantine</li>
+        <li>✔ Crawler-driven schema discovery & custom CloudWatch metrics</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/ArenRedd/security-incident-response-automation">Security Incident Response Automation</a></h3>
+      <p>Automated incident response with Security Hub, EventBridge, and Lambda — classification, remediation workflows, and SNS notifications.</p>
+      <p>
+        <code>Security Hub</code> <code>EventBridge</code> <code>Lambda</code> <code>SNS</code> <code>IAM</code>
+      </p>
+      <ul>
+        <li>✔ Severity-based classification & automated remediation</li>
+        <li>✔ Manual escalation & Security Hub insights for tracking</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<!-- ENGINEERING EXPERIENCE -->
+<h2>🚀 Cloud Engineering Experience</h2>
+<p>Throughout my cloud journey, I have designed and implemented production-grade AWS systems across multiple domains.</p>
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🌐 Compute & Containers</h3>
+      <ul>
+        <li>AWS ECS with Fargate</li>
+        <li>Lambda serverless functions</li>
+        <li>Docker containerization</li>
+        <li>Application Load Balancers</li>
+        <li>ECR image registry</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚡ CI/CD & Deployments</h3>
+      <ul>
+        <li>CodeDeploy blue-green</li>
+        <li>Traffic shifting & canary</li>
+        <li>Automated rollbacks</li>
+        <li>Deployment lifecycle hooks</li>
+        <li>GitHub Actions</li>
+      </ul>
+    </td>
+    <td width="34%" valign="top">
+      <h3>🗄️ Data & Migration</h3>
+      <ul>
+        <li>AWS DMS replication</li>
+        <li>Schema Conversion Tool</li>
+        <li>Aurora PostgreSQL & RDS</li>
+        <li>Glue ETL & data lakes</li>
+        <li>Change Data Capture (CDC)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🛡️ Security & Monitoring</h3>
+      <ul>
+        <li>Security Hub aggregation</li>
+        <li>Incident-response automation</li>
+        <li>IAM least privilege</li>
+        <li>CloudWatch metrics & alarms</li>
+        <li>SNS notifications</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🏗️ Event-Driven Architecture</h3>
+      <ul>
+        <li>EventBridge custom buses</li>
+        <li>Content-based routing rules</li>
+        <li>S3 event notifications</li>
+        <li>Decoupled pipelines</li>
+        <li>Intelligent data routing</li>
+      </ul>
+    </td>
+    <td width="34%" valign="top">
+      <h3>🔧 Infrastructure as Code</h3>
+      <ul>
+        <li>Terraform</li>
+        <li>AWS CDK</li>
+        <li>CloudFormation</li>
+        <li>Bash automation scripts</li>
+        <li>Reproducible environments</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<!-- HIGHLIGHTS -->
+<h2>🏆 Cloud Portfolio Highlights</h2>
+<p>I have designed and built <strong>4 production-grade AWS portfolio projects</strong> covering deployment automation, data migration, analytics, and security.</p>
+<p>
+  <strong>🚀 Technologies & Architectures Worked On:</strong><br/>
+  Blue-Green Deployments (ECS & Lambda) • CodeDeploy Traffic Shifting • CloudWatch Alarm-Driven Rollbacks • Oracle → Aurora PostgreSQL Migration • AWS DMS Full-Load + CDC • Schema Conversion (SCT) • Serverless Data Lakes • Lambda Layers • Glue ETL Pipelines • EventBridge Custom Buses • Data Quality Validation • Security Incident Response Automation • Security Hub Findings • Automated Remediation • IAM Least Privilege • SNS Notifications • S3 Storage Architecture • DynamoDB Metadata Stores
+</p>
+
+<!-- GITHUB STATS -->
+<h2>📈 GitHub Analytics & Open Source Activity</h2>
+<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arenredd&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arenredd&theme=tokyonight" />
+</p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arenredd&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="97%" />
+  </p>
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arenredd&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="97%" alt="Activity Graph" />
+  </p>
+  <p>
+    <img src="https://raw.githubusercontent.com/ArenRedd/ArenRedd/output/github-snake-dark.svg" alt="Snake Contribution Graph" width="97%" />
+  </p>
+</div>
