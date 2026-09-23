@@ -73,42 +73,6 @@
 <!-- ================= CLOUD & DEVOPS ================= -->
 <!-- Section Header with subtle typing or glow effect layout -->
 <!-- Section Header with a matching Dark/Glow theme -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1f232a&height=120&section=header&text=☁️%20Cloud%20%26%20DevOps&fontSize=30&fontColor=ffffff" width="100%"/>
-</div>
-
-<!-- Animated Metrics Section -->
-<p align="center">
-  <a href="https://github.com/ArenRedd/advanced-blue-green-deployments">
-    <img src="https://img.shields.io/badge/CodeDeploy-Blue%2FGreen%20%7C%20ECS%20%7C%20Lambda-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  </a>
-  <a href="https://github.com/ArenRedd/oracle-to-postgresql-migration-dms">
-    <img src="https://img.shields.io/badge/DMS-Oracle%20%E2%86%92%20Aurora-4ECDC4?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  </a>
-  <a href="https://github.com/ArenRedd/serverless-data-lake-architecture">
-    <img src="https://img.shields.io/badge/Data%20Lake-Glue%20%7C%20EventBridge%20%7C%20S3-569A31?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  </a>
-  <a href="https://github.com/ArenRedd/security-incident-response-automation">
-    <img src="https://img.shields.io/badge/Security-Hub%20%7C%20EventBridge%20%7C%20Lambda-00EA64?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  </a>
-</p>
-
-<!-- Left/Right Split: Perfectly balanced with working assets -->
-<table align="center" width="100%" border="0">
-  <tr>
-    <td align="center" width="50%" style="border: none; background: none;">
-      <a href="https://github.com/ArenRedd">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arenredd&theme=tokyonight" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td align="center" width="50%" style="border: none; background: none;">
-      <!-- Using a GitHub-native typing animation that never fails to render -->
-      <a href="https://github.com/ArenRedd">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&width=400&lines=Designing+Cloud+Architecture...;Automating+Deployments;Blue-green+on+ECS+and+Lambda;Building+Serverless+Pipelines;Continuous+Learning" alt="Typing SVG" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 <!-- Animated Footer Divider -->
 <div align="center">
